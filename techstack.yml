@@ -1,0 +1,449 @@
+repo_name: filipeoliveiraa/virtual-event-starter-kit-1
+report_id: c4fa43ef131dd210be3e33023f040ae2
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-04T23:14:11+00:00'
+requested_by: filipeoliveiraa
+provider: github
+branch: main
+detected_tools_count: 32
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1
+  detection_source: Repo Metadata
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 12.0.8
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1
+  detection_source: Repo Metadata
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 14:50:59.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: "@types/classnames"
+  description: TypeScript definitions for classnames
+  package_url: https://www.npmjs.com/@types/classnames
+  version: 2.2.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16431/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: "@types/ioredis"
+  description: TypeScript definitions for ioredis
+  package_url: https://www.npmjs.com/@types/ioredis
+  version: 4.17.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18175/default_0dba38f16e89e401bb4382c2d3f09881aac7fd70.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.19.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: hugefunwoo
+  last_updated_on: 2021-11-04 22:13:23.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: "@types/validator"
+  description: TypeScript definitions for validator.js
+  package_url: https://www.npmjs.com/@types/validator
+  version: 13.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17698/default_52c11a434d2ce37281914a7f804e07cf95ab96f7.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.10.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: cookie
+  description: HTTP server cookie parsing and serialization
+  package_url: https://www.npmjs.com/cookie
+  version: 0.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16660/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 14:50:59.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 14:50:59.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.21.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: intersection-observer
+  description: A polyfill for IntersectionObserver
+  package_url: https://www.npmjs.com/intersection-observer
+  version: 0.12.0
+  license: W3C-20150513
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17476/default_a58bf1eaa94db61dd00126cc62306474c5213d3b.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: ioredis
+  description: A robust
+  package_url: https://www.npmjs.com/ioredis
+  version: 4.19.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 14:50:59.000000000 Z
+- name: ms
+  description: Tiny millisecond conversion utility
+  package_url: https://www.npmjs.com/ms
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16565/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: nprogress
+  description: Simple slim progress bars
+  package_url: https://www.npmjs.com/nprogress
+  version: 0.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17061/default_23002b02644a8cb313a0f53f43df271731022a9e.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: postcss-flexbugs-fixes
+  description: PostCSS plugin This project tries to fix all of flexbug's issues
+  package_url: https://www.npmjs.com/postcss-flexbugs-fixes
+  version: 5.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16265/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+- name: postcss-preset-env
+  description: Convert modern CSS into something browsers understand
+  package_url: https://www.npmjs.com/postcss-preset-env
+  version: 6.7.0
+  license: CC0-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16373/default_92302d1bbf4c0f67b862869662b4f69002c94aad.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 14:50:59.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Gonzalo Pozzo
+  last_updated_on: 2021-10-30 00:18:07.000000000 Z
+- name: validator
+  description: String validation and sanitization
+  package_url: https://www.npmjs.com/validator
+  version: 13.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16255/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/filipeoliveiraa/virtual-event-starter-kit-1/blob/main/yarn.lock
+  detection_source: package.json
+  last_updated_by: Shusaku Uesugi
+  last_updated_on: 2020-12-16 05:00:04.000000000 Z
+  vulnerabilities:
+  - name: Inefficient Regular Expression Complexity in validator.js
+    cve_id: CVE-2021-3765
+    cve_url: https://github.com/advisories/GHSA-qgmg-gppg-76g5
+    detected_date: Jan 18
+    severity: moderate
+    first_patched: 13.7.0
+  - name: Inefficient Regular Expression Complexity in Validator.js
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-xx4c-jj58-r7x6
+    detected_date: Jan 18
+    severity: moderate
+    first_patched: 13.7.0
